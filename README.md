@@ -83,8 +83,8 @@ This project implements a **production-style Retrieval-Augmented Generation (RAG
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/Pranay890/genai-enterprise-rag-assistant.git
-cd genai-enterprise-rag-assistant
+git clone https://github.com/Pranay890/GenAI-Powered-Enterprise-Knowledge-Assistant-RAG.git
+cd GenAI-Powered-Enterprise-Knowledge-Assistant-RAG
 ```
 
 ### 2. Create a Virtual Environment
